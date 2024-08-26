@@ -1,0 +1,13 @@
+metadata_version: 1
+name: Samplot Visualization (from coordinates)
+description: "A command line tool for interactive, rapid, multi-sample structural
+  variant visualization. This capsule is best suited as a standalone capsule (not
+  run in a pipeline).  It will plot a single genomic region of interest, and the App
+  Panel allows the user to customize the figures produced.  \n\nhttps://github.com/ryanlayer/samplot"
+tags:
+- CNV
+- Genomics
+- DNA
+- Visualization
+authors:
+- name: Sandra Hoffberg
